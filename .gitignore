@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 out_decisionTree.csv
 out_gnb.csv
+out_dt.csv
+out_knn.csv
+out_LogR.csv
+out_mpl.csv
+out_nb.csv
+out_svc.csv
